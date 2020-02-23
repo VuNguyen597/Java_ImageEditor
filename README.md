@@ -3,7 +3,7 @@ Chương trình xử lý ảnh cơ bản - JAVA
 
 IDE: Eclipse 3.8.1
 
-# Chức năng:
+### Chức năng:
 
         -Vẽ:
         
@@ -34,6 +34,6 @@ IDE: Eclipse 3.8.1
                 ...
     
         -Zoom ảnh to/nhỏ
-# Hình ảnh giao diện:
+### Hình ảnh giao diện:
 
 ![](https://github.com/VuNguyen597/Java_ImageEditor/blob/master/images/img.PNG)
