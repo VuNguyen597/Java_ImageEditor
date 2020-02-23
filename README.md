@@ -1,34 +1,22 @@
 # Java_ImageEditor
-IDE: Eclipse 3.8.1
+Chương trình xử lý ảnh cơ bản - JAVA
 
-Chức năng:
+#IDE: Eclipse 3.8.1
+
+#Chức năng:
 
         -Vẽ:
         
                 bút chì
-                
-                đường thẳng
-                
-                hình chữ nhật
-                
-                hình eclipse
-                
                 cọ
-                
                 tẩy
-                
-                chữ
+                ...
+
         -Màu sắc:
         
                 chọn màu có sẳn
-                
                 pha màu
-                
-                sao chép màu
-                
-                vẽ đừng viền
-                
-                tô màu đối tượng
+                ...
                 
         -File:
         
