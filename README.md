@@ -1,7 +1,7 @@
 # Java_ImageEditor
 Chương trình xử lý ảnh cơ bản - JAVA
 
-# IDE: Eclipse 3.8.1
+IDE: Eclipse 3.8.1
 
 # Chức năng:
 
